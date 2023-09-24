@@ -62,6 +62,6 @@ Screenshot 7:
 
 ![Mycases](https://github.com/AzzedineNed/UI-for-a-Medical-Imaging-Database-Web-App/assets/121098331/3816f1ce-491d-44cf-8097-eb63c6beca5d)
 
-Thank you for your interest in the "UI for a Medical Imaging Database Web App" project. Together, we can make a meaningful impact on healthcare data management and ultimately improve patient care.
+Thank you for your interest in the project.
 
 
